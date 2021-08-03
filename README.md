@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/PedroTarga">
-  <img height="150px" width="130px" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true" alt="pedrotarga's github top languages" />
+  <img height="180px" width="180px" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true" alt="pedrotarga's github top languages" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact" alt="pedrotarga's github top languages" 
 />    
 </a>
