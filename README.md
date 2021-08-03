@@ -19,6 +19,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=targapedro&theme=midnight-purple&layout=compact&bg_color=282828" alt="pedrotarga's github top languages" />
 </a>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=targapedro)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <!---
