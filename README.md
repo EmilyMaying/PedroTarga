@@ -3,7 +3,7 @@
 
 <a href="https://github.com/PedroTarga">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true&height=160px)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true&height="10px")
 
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact" alt="pedrotarga's github top languages" />
