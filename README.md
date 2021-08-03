@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <style>
 h1 {
   color: orange;
 }
 </style>
+=======
+<link rel="stylesheet" type="text/css" media="all" href="PedroTarga/style.css" />
+>>>>>>> 76fcdfcbca8175b5834aab78addf67f923b3adae
 
 # 👋 Hi, I’m @PedroTarga
 
