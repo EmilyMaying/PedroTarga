@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&show_icons=true&theme=midnight-purple&count_private=true" alt="pedrotarga's github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact" alt="pedrotarga's github top languages" />
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotarga&repo=Alura-HTML-CSS)](https://github.com/PedroTarga/freeCodeCamp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotarga&repo=Alura-HTML-CSS&theme=midnight-purple)](https://github.com/PedroTarga/freeCodeCamp)
 
 </a>
 
