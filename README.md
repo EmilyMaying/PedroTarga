@@ -1,4 +1,8 @@
-<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+<style>
+h1 {
+  color: orange;
+}
+</style>
 
 # 👋 Hi, I’m @PedroTarga
 
