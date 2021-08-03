@@ -1,9 +1,3 @@
-<style>
-h1 {
-  color: orange;
-}
-</style>
-
 # 👋 Hi, I’m @PedroTarga
 
 ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
