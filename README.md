@@ -1,8 +1,6 @@
 - # 👋 Hi, I’m @PedroTarga
 ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroTarga&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 - 👀 I’m interested in programming and Language Learning
 - 🌱 I’m currently learning JavaScript in Freecodecamp.org website and in Alura.com.br
 - 💞️ I’m looking to collaborate on Front-End Projects
