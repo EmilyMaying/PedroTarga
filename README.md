@@ -5,8 +5,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&show_icons=true&theme=midnight-purple&count_private=true" alt="pedrotarga's github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact" alt="pedrotarga's github top languages" />
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotarga&repo=Alura-HTML-CSS&theme=midnight-purple)](https://github.com/PedroTarga/freeCodeCamp)
-  [![pedrotarga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=targapedro)](https://wakatime.com/@targapedro)
+  [![Readme Card](img height="160em" https://github-readme-stats.vercel.app/api/pin/?username=pedrotarga&repo=Alura-HTML-CSS&theme=midnight-purple)](https://github.com/PedroTarga/freeCodeCamp)
+  [![pedrotarga's wakatime stats](img height="160em" https://github-readme-stats.vercel.app/api/wakatime?username=targapedro&theme=midnight-purple)](https://wakatime.com/@targapedro)
 
 </a>
 
