@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact" alt="pedrotarga's github top languages" />
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotarga&repo=Alura-HTML-CSS&theme=midnight-purple)](https://github.com/PedroTarga/freeCodeCamp)
-  [![pedrotarga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrotarga)](https://wakatime.com/@targapedro)
+  [![pedrotarga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=targapedro)](https://wakatime.com/@targapedro)
 
 </a>
 
