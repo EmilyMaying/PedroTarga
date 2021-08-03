@@ -1,5 +1,7 @@
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+
 - # 👋 Hi, I’m @PedroTarga
-![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/PedroTarga">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true&bg_color=282828" alt="pedrotarga's github top languages" />
@@ -9,7 +11,6 @@
 <a href="https://wakatime.com/@targapedro">
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=targapedro&theme=midnight-purple&layout=compact&bg_color=282828" alt="pedrotarga's github top languages" />
 </a>
-
 
 - 👀 I’m interested in programming and Language Learning
 - 🌱 I’m currently learning JavaScript in Freecodecamp.org website and in Alura.com.br
