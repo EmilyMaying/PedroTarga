@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/<code>-<javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/PedroTarga">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&show_icons=true&theme=dracula&count_private=true" alt="pedrotarga's github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=dracula&layout=compact" alt="pedrotarga's github top languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&show_icons=true&theme=midnight-purple&count_private=true" alt="pedrotarga's github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact" alt="pedrotarga's github top languages" />
 </a>
 
 - 👀 I’m interested in programming and Language Learning
