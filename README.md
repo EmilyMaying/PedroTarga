@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-	<img src="page.svg" width="100%" height="400" alt="Click to see the source">
-</div>
-
----
-
 <a href="https://github.com/PedroTarga">
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true&bg_color=282828" alt="pedrotarga's github top languages" />
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact&bg_color=282828" alt="pedrotarga's github top languages"
