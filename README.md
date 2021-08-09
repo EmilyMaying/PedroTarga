@@ -9,8 +9,10 @@
 ---
 
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=midnight-purple&hide=contribs,prs&show_icons=true&bg_color=282828" alt="pedrotarga's github top languages" />
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact&bg_color=282828" alt="pedrotarga's github top languages"
-/>
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=midnight-purple&layout=compact&bg_color=282828" alt="pedrotarga's github top languages" />
+
+  <img width="86%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=targapedro&theme=midnight-purple&bg_color=282828" alt="pedrotarga's github top languages" />
+
 </a>
 
 <!-- <a height="150px" href="https://wakatime.com/@targapedro">
