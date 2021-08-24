@@ -29,4 +29,4 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?&label=Twitter&url=https%3A%2F%2Ftwitter.com%2FTargePeter)
 
-![snake gif](https://github.com/PedroTarga/PedroTarga/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/PedroTarga/PedroTarga/blob/output/github-contribution-grid-snake.svg)
