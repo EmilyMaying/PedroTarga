@@ -13,8 +13,6 @@
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=#61bb94)
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=#61bb94)
 
----
-
 ## GitHub Stats <img src="./media/github.svg" width="20px"> 
 
 <a href="https://github.com/PedroTarga">
