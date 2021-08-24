@@ -25,8 +25,13 @@
 
 ---
 
+![snake svg](https://github.com/PedroTarga/PedroTarga/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## Connect with Me <img src="./media/shaking-hands.gif" width="30px"> 
 
-![Twitter URL](https://img.shields.io/twitter/url?&label=Twitter&url=https%3A%2F%2Ftwitter.com%2FTargePeter)
+<a href="twitter.com/TargePeter"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
+<a href = "mailto:targa.pe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 
-![snake svg](https://github.com/PedroTarga/PedroTarga/blob/output/github-contribution-grid-snake.svg)
+
