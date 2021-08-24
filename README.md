@@ -23,11 +23,7 @@
 <img height="140px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=vue&layout=compact&bg_color=white" alt="pedrotarga's github top languages" />
 </a>
 
----
-
 ![snake svg](https://github.com/PedroTarga/PedroTarga/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## Connect with Me <img src="./media/shaking-hands.gif" width="30px"> 
 
