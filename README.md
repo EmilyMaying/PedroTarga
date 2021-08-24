@@ -22,7 +22,7 @@
  
 </a>
 
- ## GitHub Stats <img src="./media/github.svg" width="20px"> 
+ ## GitHub Stats 
 
 <a href="https://github.com/PedroTarga">
  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=vue&hide=contribs,prs&show_icons=true&bg_color=white" alt="pedrotarga's github top languages" />
