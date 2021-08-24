@@ -27,5 +27,6 @@
 
 ## Connect with Me <img src="./media/shaking-hands.gif" width="30px"> 
 
-
+<a href="twitter.com/targepeter">
 ![Twitter URL](https://img.shields.io/twitter/url?&label=Twitter&url=https%3A%2F%2Ftwitter.com%2FTargePeter)
+</a>
