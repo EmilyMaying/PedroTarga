@@ -26,8 +26,7 @@
 
 <a href="https://github.com/PedroTarga">
  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotarga&theme=vue&hide=contribs,prs&show_icons=true&bg_color=white" alt="pedrotarga's github top languages" />
- <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=targapedro&theme=vue&bg_color=white" alt="pedrotarga's github top languages" />
- <img height="140px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=vue&layout=compact&bg_color=white" alt="pedrotarga's github top languages" />
+ <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotarga&theme=vue&layout=compact&bg_color=white" alt="pedrotarga's github top languages" />
 </a>
 
 
