@@ -1,5 +1,5 @@
 <h2  align="center">
-## Hi, I’m @PedroTarga <img src="./media/waving-hand.gif" width="20px">
+Hi, I’m @PedroTarga <img src="./media/waving-hand.gif" width="20px">
 </h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -23,6 +23,7 @@ const Peter = {
     },
     devOps: ["Vagrant", "Puppet", "VirtualBox", "Docker"],
     databases: ["mongo", "MySql"],
+    testing: ["mocha", "chai", "supertest"],
   },
 
   challenges: {
@@ -36,13 +37,6 @@ const Peter = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <a href = "https://twitter.com/TargaPeter"><img src="https://img.shields.io/badge/-Twitter-%23333?style=flat-square&logo=twitter&logoColor=white&color=blue"></a>
 <a href = "mailto:targa.pe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-
-<em>
-<h3> Awesome readme.md that Inspired me </h3>
-
-- [Thai Braga](https://github.com/Thaiane/Thaiane)
-- [Anmol Singh](https://github.com/anmol098/anmol098)
-  </em>
 
 ## GitHub Stats
 
