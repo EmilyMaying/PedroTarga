@@ -12,7 +12,7 @@ const Peter = {
   code: ["Javascript", "HTML", "CSS", "Java", "Python"],
   technologies: {
     frontEnd: {
-      frameworks: ["React", "Vue"],
+      frameworks: ["Next", "Vue"],
       css: ["Styled Components", "Material UI"],
     },
     backEnd: {
