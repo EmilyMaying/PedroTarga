@@ -22,13 +22,7 @@ const Emily = {
     devOps: ["Vagrant", "Puppet", "VirtualBox", "Docker"],
     databases: ["mongo", "MySql"],
     testing: ["mocha", "chai", "supertest"],
-  },
-
-  challenges: {
-    Twitter:
-      "I am doing my second round of the #100DaysOfCode challenge and focused in learning Java",
-    Alura: "I'm doing Alura's #2 Editon: Back-End Challenge",
-  },
+  }
 };
 ```
 
