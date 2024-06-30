@@ -1,27 +1,21 @@
 <h2  align="center">
-Hi, I’m @Emily May 
+Hi, I’m @Emily Targa
 </h2>
 
 ```javascript
 const Emily = {
   pronouns: "She" | "Her",
-  myHobbies: ["web dev", "books", "meditation", "yoga"],
 
-  code: ["Javascript", "HTML", "CSS", "Java", "Python"],
+  code: ["Javascript", "HTML", "CSS", "C#"],
   technologies: {
     frontEnd: {
-      frameworks: ["Next", "Vue"],
-      css: ["Styled Components", "Material UI"],
+      frameworks: "Next",
     },
     backEnd: {
       js: ["Node", "Express"],
     },
-    mobileApp: {
-      native: ["React Native"],
-    },
     devOps: ["Vagrant", "Puppet", "VirtualBox", "Docker"],
-    databases: ["mongo", "MySql"],
-    testing: ["mocha", "chai", "supertest"],
+    databases: ["MySql", "Postgres"],
   }
 };
 ```
