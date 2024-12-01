@@ -4,18 +4,17 @@ Hi, I’m @Emily Targa
 
 ```javascript
 const Emily = {
-  pronouns: "She" | "Her",
+  "pronouns": ["She", "Her"],
 
-  code: ["Javascript", "HTML", "CSS", "C#"],
-  technologies: {
-    frontEnd: {
-      frameworks: "Next",
+  "code": ["Javascript", "HTML", "CSS", "C#", "Python"],
+  "technologies": {
+    "frontEnd": {
+      "frameworks": ["Next"]
     },
-    backEnd: {
-      js: ["Node", "Express"],
+    "backEnd": {
+      "js": ["Node", "Express", "Nestjs"]
     },
-    devOps: ["Vagrant", "Puppet", "VirtualBox", "Docker"],
-    databases: ["MySql", "Postgres"],
+    "databases": ["MySql", "SQL Server", "MongoDB"]
   }
 };
 ```
